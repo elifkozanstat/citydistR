@@ -1,0 +1,28 @@
+Package: citydistR
+Type: Package
+Title: City-Adaptive Distance Modelling Utilities
+Version: 0.1.1
+Authors@R:
+    c(
+      person("Elif", "Kozan",
+             email = "elif.kozan@ege.edu.tr",
+             role = c("aut", "cre", "cph")),
+      person(
+        "The Scientific and Technological Research Council of Türkiye (TÜBİTAK)",
+        role = "fnd"
+      )
+    )
+Description: Tools for distribution-aware and city-adaptive analysis of
+    learning-based road-network distance estimates. Provides detour-factor
+    diagnostics, a Topological Predictability Index, upper-tail summaries,
+    modular robust losses, hybrid objective components, adaptive validation
+    weights, and multi-criteria model evaluation. The functions are designed
+    as reusable building blocks rather than a fixed model specification.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://github.com/elifkozanstat/citydistR
+BugReports: https://github.com/elifkozanstat/citydistR/issues

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the associated research output."
+title: "citydistR: City-Adaptive Distance Modelling Utilities"
+version: 0.1.1
+authors:
+  - family-names: Kozan
+    given-names: Elif
+date-released: 2026-09-26
+license: MIT
