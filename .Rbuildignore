@@ -1,1 +1,10 @@
-
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^CRAN_PREP\.md$
+^cran-comments\.md$
+^tools$
+^CITATION\.cff$
+^GITHUB_UPLOAD_STEPS\.md$
+^STATIC_CHECK\.json$
+^LICENSE\.md$
